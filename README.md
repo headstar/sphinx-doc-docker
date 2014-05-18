@@ -22,6 +22,7 @@ $ docker run -i -t -v /host-dir-with-sphinx-doc:/doc sphinx-doc
 $ cd /doc
 ```
 
+To make a pdf:
 ``` 
 $ make latexpdf
 ```
