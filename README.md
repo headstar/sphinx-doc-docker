@@ -6,7 +6,7 @@ Dockerfile with:
 * HTML themes from http://docs.writethedocs.org/tools/sphinx-themes
  
 
-#### Build
+#### Build image
 
 ``` 
 $ docker build -t sphinx-doc .
