@@ -2,7 +2,7 @@
 
 Dockerfile with: 
 * Sphinx documentation
-* LaTex
+* LaTeX
 * HTML themes from http://docs.writethedocs.org/tools/sphinx-themes
  
 
