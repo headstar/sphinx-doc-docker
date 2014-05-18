@@ -1,4 +1,4 @@
-### General
+## General
 
 Dockerfile with: 
 * Sphinx documentation
