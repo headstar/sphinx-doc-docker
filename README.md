@@ -26,3 +26,8 @@ To make a pdf:
 ``` 
 $ make latexpdf
 ```
+
+To make a html document:
+``` 
+$ make html
+```
