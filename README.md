@@ -1,7 +1,7 @@
 ## General
 
 Dockerfile with: 
-* Sphinx documentation
+* Sphinx documentation (version 1.3.1)
 * LaTeX
 * HTML themes from http://docs.writethedocs.org/tools/sphinx-themes
  
@@ -20,6 +20,11 @@ $ docker run -i -t -v /host-dir-with-sphinx-doc:/doc sphinx-doc
 
 ``` 
 $ cd /doc
+```
+
+To create Sphinx project:
+```
+$ sphinx-quickstart
 ```
 
 To create a pdf:
