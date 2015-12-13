@@ -1,7 +1,7 @@
 ## General
 
 Dockerfile with: 
-* Sphinx documentation tool (version 1.3.1)
+* Sphinx documentation tool (version 1.3.3)
 * LaTeX
 * HTML themes from http://docs.writethedocs.org/tools/sphinx-themes
  
